@@ -1,6 +1,5 @@
 _This was my first programming experience, so the code presented is not clean or optimized._
 
-<br>
 
 # Algorithms and Computer Programming
 Basic concepts of computer organization.  
